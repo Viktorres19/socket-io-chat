@@ -1,0 +1,12 @@
+{
+  "name": "socket-io-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Viktorres19/socket-io-chat.git",
+  "author": "viktoralwaysfirst@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
